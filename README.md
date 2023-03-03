@@ -1,5 +1,7 @@
 # Olá! sou o Adriano Carlos<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
+- <p><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">: Estudando HTML, CSS e JavaScript</p>
+
 <div>
   <a href="https://github.com/Adrianocode19">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianocode19&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
