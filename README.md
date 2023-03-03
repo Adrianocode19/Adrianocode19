@@ -1,16 +1,30 @@
-### Hi there 👋
+# Olá! sou o Adriano Carlos<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-<!--
-**Adrianocode19/Adrianocode19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/Adrianocode19">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianocode19&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=transparent"/>  
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Adri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Adri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+<div>
+ 
+  # Minhas redes:
 
-Here are some ideas to get you started:
+  <a href="https://www.linkedin.com/in/adriano-carlos-texeira-ba4a40262/">
+    <img align="left" alt="Linkdein" width="31px" src="https://joaopaulovieira.dev/img_github/github_readme/linkedin.svg" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://api.whatsapp.com/send?phone=5567992539374">
+    <img align="left" alt="Facebook" width="31px" src="https://joaopaulovieira.dev/img_github/github_readme/whatsapp.svg" />
+  </a>
+
+  <a href="https://www.instagram.com/adriano_t3/">
+    <img align="left" alt="Instagram" width="31px" src="https://joaopaulovieira.dev/img_github/github_readme/instagram.svg" />
+  </a>
+</div>
