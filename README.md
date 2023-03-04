@@ -2,11 +2,13 @@
 
 - <p><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">: Estudando HTML, CSS e JavaScript</p>
 
-<div>
+<div align="center">
   <a href="https://github.com/Adrianocode19">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrianocode19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
-</div>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adrianocode19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
+</div><br>
+  
+<img height="250" width="120" src="https://cutewallpaper.org/21/pixel-art-gif-background/Futuristic-Landscapes-Get-a-Retro-Look-Thanks-to-Pixel-Art-.gif">
   
 <div>
   
