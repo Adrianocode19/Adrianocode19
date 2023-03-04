@@ -1,4 +1,4 @@
-# Olá! sou o Adriano Carlos<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Olá! sou o Adriano Carlos<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="1.4rem">
 
 - <p><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">: Estudando HTML, CSS e JavaScript</p>
 
