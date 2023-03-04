@@ -8,7 +8,7 @@
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
 </div><br>
   
-<img height="250" width="120" src="https://cutewallpaper.org/21/pixel-art-gif-background/Futuristic-Landscapes-Get-a-Retro-Look-Thanks-to-Pixel-Art-.gif">
+<img height="250" width="1200" src="https://raw.githubusercontent.com/Adrianocode19/Adrianocode19/89d471bde7d2b9451f50aa70a2fcb6a9055cb9b8/gifcidade.gif">
   
 <div>
   
