@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Adrianocode19">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adrianocode19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
+   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Adrianocode19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
 </div><br>
   
 <img height="250" width="1200" src="https://raw.githubusercontent.com/Adrianocode19/Adrianocode19/89d471bde7d2b9451f50aa70a2fcb6a9055cb9b8/gifcidade.gif">
