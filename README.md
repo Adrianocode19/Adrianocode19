@@ -8,7 +8,7 @@
    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
 </div><br>
   
-<img height="150em" width="300em" src="https://raw.githubusercontent.com/Adrianocode19/Adrianocode19/89d471bde7d2b9451f50aa70a2fcb6a9055cb9b8/gifcidade.gif">
+<img height="150em" width="500em" src="https://raw.githubusercontent.com/Adrianocode19/Adrianocode19/89d471bde7d2b9451f50aa70a2fcb6a9055cb9b8/gifcidade.gif">
   
 <div>
   
