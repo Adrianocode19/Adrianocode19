@@ -8,14 +8,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Adri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
 <div>
- 
+  
   # Minhas redes:
 
   <a href="https://www.linkedin.com/in/adriano-carlos-texeira-ba4a40262/">
@@ -29,4 +23,12 @@
   <a href="https://www.instagram.com/adriano_t3/">
     <img align="left" alt="Instagram" width="31px" src="https://joaopaulovieira.dev/img_github/github_readme/instagram.svg" />
   </a>
+</div><br>
+  
+##
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Adri-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Adri-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Adri-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
