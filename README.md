@@ -1,4 +1,4 @@
-## Olá! sou o Adriano Carlos<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20em">
+## Olá! sou o Adriano Carlos<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 - <p><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px">: Estudando HTML, CSS e JavaScript</p>
 
@@ -8,7 +8,7 @@
    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianocode19&layout=compact&langs_count=16&theme=dark"/>  
 </div><br>
   
-<img height="150em" width="500em" src="https://raw.githubusercontent.com/Adrianocode19/Adrianocode19/89d471bde7d2b9451f50aa70a2fcb6a9055cb9b8/gifcidade.gif">
+<img src="https://raw.githubusercontent.com/Adrianocode19/Adrianocode19/89d471bde7d2b9451f50aa70a2fcb6a9055cb9b8/gifcidade.gif" width="980">
   
 <div>
   
