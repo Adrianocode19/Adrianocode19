@@ -1,8 +1,8 @@
 <!-- Título e cumprimento -->
-<h2>Olá! sou o Adriano Carlos <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
+<h2>Olá! sou o Adriano Carlos <img src="assets/Mario_Hello_Big.gif" width="40"></h2>
 
 <!-- Status atual -->
-<p><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="30px"> Estudando HTML, CSS e JavaScript</p>
+<p><img src="assets/Developer.gif" width="30px"> Futuro Desenvolvedor Front-End</p>
 
 <!-- Estatísticas do GitHub -->
 <div align="center">
@@ -14,20 +14,19 @@
 <br>
 
 <!-- GIF da cidade -->
-<img src="https://raw.githubusercontent.com/Adrianocode19/Adrianocode19/89d471bde7d2b9451f50aa70a2fcb6a9055cb9b8/gifcidade.gif" width="980">
+<img src="assets/gifcidade.gif" width="980">
 
 <!-- Redes Sociais -->
 <div>
-  <h3>Minhas Redes Sociais:</h3>
-  <p>Você pode me encontrar nas seguintes redes sociais:</p>
+  <h3>Minhas Redes:</h3>
   <a href="https://www.linkedin.com/in/adriano-carlos-texeira-ba4a40262/">
-    <img align="left" alt="Linkdein" width="31px" src="https://joaopaulovieira.dev/img_github/github_readme/linkedin.svg" />
+    <img align="left" alt="Linkdein" height="45" width="45" src="assets/Linkedin.svg" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=5567992539374">
-    <img align="left" alt="WhatsApp" width="31px" src="https://joaopaulovieira.dev/img_github/github_readme/whatsapp.svg" />
+    <img align="left" alt="WhatsApp" height="45" width="45" src="assets/Whatsapp.svg" />
   </a>
   <a href="https://www.instagram.com/adriano_t3/">
-    <img align="left" alt="Instagram" width="31px" src="https://joaopaulovieira.dev/img_github/github_readme/instagram.svg" />
+    <img align="left" alt="Instagram" height="45" width="45" src="assets/Instagram.svg" />
   </a>
   <br>
   <br>
@@ -37,10 +36,9 @@
 <!-- Linguagens e ferramentas -->
 <div>
   <h3>Linguagens e Ferramentas:</h3>
-  <p>Aqui estão algumas das linguagens e ferramentas que eu estou estudando e trabalhando atualmente:</p>
   <div style="display: inline_block">
-    <img align="center" alt="JavaScript" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML5" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS3" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JavaScript" height="45" width="45" src="assets/JavaScript.png">
+    <img align="center" alt="HTML5" height="45" width="45" src="assets/html.png">
+    <img align="center" alt="CSS3" height="45" width="45" src="assets/Css.png">
   </div>
 </div>
