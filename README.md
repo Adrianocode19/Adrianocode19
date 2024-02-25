@@ -2,7 +2,7 @@
 <h2>Olá! sou o Adriano Carlos <img src="assets/Mario_Hello_Big.gif" width="40"></h2>
 
 <!-- Status atual -->
-<p><img src="assets/Developer.gif" width="30px"> Futuro Desenvolvedor Front-End</p>
+<p><img src="assets/Developer.gif" width="30px">Desenvolvedor Front-End</p>
 
 <!-- Estatísticas do GitHub -->
 <div align="center">
