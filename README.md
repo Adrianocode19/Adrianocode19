@@ -37,8 +37,10 @@
 <div>
   <h3>Linguagens e Ferramentas:</h3>
   <div style="display: inline_block">
-    <img align="center" alt="JavaScript" height="45" width="45" src="assets/JavaScript.png">
-    <img align="center" alt="HTML5" height="45" width="45" src="assets/html.png">
-    <img align="center" alt="CSS3" height="45" width="45" src="assets/Css.png">
+    <img align="center" alt="Logo HTML5" height="45" width="45" src="assets/html.png">
+    <img align="center" alt="Logo CSS3" height="45" width="45" src="assets/Css.png">
+    <img align="center" alt="Logo JavaScript" height="45" width="45" src="assets/JavaScript.png">
+    <img align="center" alt="Logo TypeScript" height="45" width="45" src="assets/TypeScript.png">
+    <img align="center" alt="Logo React" height="45" width="45" src="assets/React.png">
   </div>
 </div>
