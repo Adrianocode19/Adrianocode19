@@ -23,7 +23,7 @@
   <img src="assets/javascript-logo.svg" alt="JavaScript logo">
   <img src="assets/typescript-logo.svg" alt="TypeScript logo">
   <img src="assets/react-logo.svg" alt="React logo">
-  <img src="assets/npm-logo.svg" alt="Npm logo">
+  <img src="assets/vue-logo.svg" alt="Vue JS logo">
 </div>
 <br>
 <div align="center">
