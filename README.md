@@ -8,7 +8,7 @@
   <h2>
     <img src="assets/Developer.gif" width="35px">
     Dev Front-End
-      <a href="https://www.linkedin.com/in/adriano-carlos-texeira-ba4a40262/">
+      <a href="https://www.linkedin.com/in/adrianocarlosdev/">
       <img align="right" width="35" alt="Linkdein" src="assets/linkedin-logo.svg" />
     </a>
     <a href="https://api.whatsapp.com/send?phone=5567992539374">
@@ -24,6 +24,7 @@
   <img src="assets/typescript-logo.svg" alt="TypeScript logo">
   <img src="assets/react-logo.svg" alt="React logo">
   <img src="assets/vue-logo.svg" alt="Vue JS logo">
+  <img src="assets/tailwind-logo.svg" alt="Tailwindcss logo">
 </div>
 <br>
 <div align="center">
